@@ -1,0 +1,29 @@
+.container {
+  max-width: 300px;
+  margin-top: 50px;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: white;
+}
+.screen {
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  font-size: 24px;
+  text-align: right;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  height: 50px;
+  overflow: hidden;
+}
+.row {
+  width: 100%;
+  font-size: 20px;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
